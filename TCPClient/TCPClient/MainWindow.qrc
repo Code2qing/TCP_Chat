@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="MainWindow">
+    <file>Resources/images/logo.ico</file>
+    <file>Resources/images/Smile-256.png</file>
+    <file>Resources/images/mail-reply-sender.png</file>
+    <file>Resources/images/player_play.png</file>
+    <file>Resources/images/player_record.png</file>
+    <file>Resources/images/smile.png</file>
+  </qresource>
+</RCC>
